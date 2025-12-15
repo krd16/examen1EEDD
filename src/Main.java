@@ -6,7 +6,7 @@ public class Main {
 
         while (contador <= 10) {
             System.out.println(numero + " x " + contador + " = " + (numero * contador));
-
+            contador++;
         }
 
     }
